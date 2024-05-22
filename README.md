@@ -1,4 +1,4 @@
-IPL Data Analysis Dashboard (2008-2023) 🎉
+IPL Data Analysis Dashboard (2008-2023)
 
 Overview
 
