@@ -1,9 +1,11 @@
 IPL Data Analysis Dashboard (2008-2023) 🎉
+
 Overview
 
 Welcome to the IPL Data Analysis Dashboard project! This interactive dashboard provides an in-depth analysis of the Indian Premier League from 2008 to 2023, offering valuable insights through various visualizations and statistical analyses.
 
 Features
+
 📊 Winning Analysis by Bat and Ball: Explore winning statistics categorized by batting and bowling performance, highlighting trends and patterns over the years.
 🏟️ Top Venues Analysis: Examine the most frequently used venues, their impact on match outcomes, and specific characteristics that influence game results.
 🏅 Man of the Match Analysis: Detailed analysis of players who have consistently delivered match-winning performances, including frequency and distribution across different seasons.
